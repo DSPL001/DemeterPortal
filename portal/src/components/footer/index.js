@@ -74,7 +74,7 @@ export default function StickyFooter() {
                         ))}
                     </Grid>
                     <Copyright sx={{ mt: 4, mb: 2 }} />
-                </Container>
+                </Container>                
             </Box>
         </Box>
     );
